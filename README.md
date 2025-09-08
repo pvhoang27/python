@@ -1,10 +1,16 @@
-# Luyện tập giải bài toán lập trình với Python
+# Lời giải bài tập Python trên CodePTIT
 
-Đây là kho lưu trữ các lời giải của tôi cho các bài toán lập trình khác nhau bằng Python. Các bài toán này chủ yếu đến từ các nền tảng luyện thi lập trình cạnh tranh.
+Chào mừng bạn đến với kho lưu trữ của tôi! 👋
 
-## Mục lục
+Đây là nơi tôi lưu trữ các lời giải cho những bài tập lập trình bằng ngôn ngữ Python trên nền tảng [CodePTIT](https://code.ptit.edu.vn/).
 
-Dưới đây là danh sách các bài toán đã được giải quyết:
+**Lưu ý:** Kho lưu trữ này đang trong quá trình xây dựng và hoàn thiện. Tôi sẽ liên tục cập nhật các lời giải mới khi hoàn thành chúng.
+
+---
+
+## Danh sách các bài đã giải (List of Solved Problems)
+
+Dưới đây là các bài toán mà tôi đã hoàn thành:
 
 | Tên File | Mô tả |
 | --- | --- |
