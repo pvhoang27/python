@@ -28,3 +28,4 @@ for p in primes:
 
 # In ra kết quả
 print(*res)
+    
